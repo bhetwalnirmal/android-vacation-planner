@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
         countrySpinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
             @Override
             public void onItemSelected(AdapterView<?> adapterView, View view, int i, long l) {
-                Log.d("sdf',", "sdfs");
+
             }
 
             @Override
